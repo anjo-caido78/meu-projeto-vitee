@@ -1,2 +1,20 @@
-# meu-projeto-vitee
-Projeto desenvolvido com Vite e JavaScript, utilizando um banco de dados local para simular um sistema funcional de cadastro, listagem e armazenamento de dados. Ideal para treinar integração com banco de dados e desenvolvimento web moderno.
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Loja GiftCard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>GiftCard Express</h1>
+  </header>
+
+  <main id="produtos">
+    <!-- Gift cards serão adicionados aqui pelo JS -->
+  </main>
+
+  <script src="giftCard.js"></script>
+</body>
+</html>
